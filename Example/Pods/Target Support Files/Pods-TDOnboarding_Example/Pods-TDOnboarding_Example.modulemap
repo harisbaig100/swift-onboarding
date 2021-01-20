@@ -1,0 +1,6 @@
+framework module Pods_TDOnboarding_Example {
+  umbrella header "Pods-TDOnboarding_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

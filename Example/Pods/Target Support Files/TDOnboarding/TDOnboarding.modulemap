@@ -1,0 +1,6 @@
+framework module TDOnboarding {
+  umbrella header "TDOnboarding-umbrella.h"
+
+  export *
+  module * { export * }
+}
