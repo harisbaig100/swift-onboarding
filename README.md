@@ -1,4 +1,4 @@
-# TDOnboarding
+# swift-onboarding
 
 ## Example
 
